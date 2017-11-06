@@ -1,0 +1,12 @@
+*.[oa]
+*.obj
+*.aux
+*.log
+*.synctex.gz
+*.exe
+*.suo
+*.sdf
+*.pdb
+*.tlog
+*.ilk
+*.idb
